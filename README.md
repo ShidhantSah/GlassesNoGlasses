@@ -1,4 +1,4 @@
-# GlassesNoGlasses 👓
+# GlassesNoGlasses 
 
 A binary image classifier that answers one simple question — is this person wearing glasses or not?
 
